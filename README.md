@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde Fev/2024 ...<br>📚 Atualmente estou no 2°Periodo de Analise e Desenvolvimento de Sistemas e focada em aprender Front-End <br>🎯 Metas: Migrar para a área Dev, aprender linguagens de Programção e me tornar fluente em Ingles <br>🎲 Curiosidades: Mudei sozinha para outro estado, abri minha primeira empresa com 22 anos (insta: @Barbeariadonabarba) </p>
+<p align="left">✨ Criando bugs desde Fev/2024 ...<br>📚 Atualmente estou no 2°Periodo de Analise e Desenvolvimento de Sistemas e focada em aprender Front-End <br>🎯 Metas: Depois de 5 anos empreendendo, hoje busco migrar de carreira e entrar na Área
+de Tecnologia, no qual tenho me identificadado todos os dias.
+Meu maior objetivo profissional é entrar em uma empresa em que eu possa aliar
+minhas habilidades e conhecimentos junto a ela, visando crescimento pessoal e
+profissional. <br>🎲 Curiosidades: Mudei sozinha para outro estado, abri minha primeira empresa com 22 anos (insta: @Barbeariadonabarba) </p>
 
 ###
 
