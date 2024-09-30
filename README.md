@@ -2,38 +2,30 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Karine, mas pode me chamar de Kariolly, depois eu posso te explicar o por quê. 😊 </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left"> Sou Geminiana e isso explica muito minha curiosidade sem fim, sempre buscando aprender coisas novas! Tenho 28 anos e sou Barbeira há mais de cinco anos e há alguns meses estudo Programação, então todas as vezes que eu acho que aprender algo novo é dificil, eu lembro que, pra mim, cortar cabelo tambem era 😆 </p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde Fev/2024 ...<br>📚 Atualmente estou no 2°Periodo de Analise e Desenvolvimento de Sistemas e focada em aprender Front-End <br>🎯 Metas: Migrar para a área Dev, aprender linguagens de Programção e me tornar fluente em Ingles <br>🎲 Curiosidades: Mudei sozinha para outro estado, abri minha primeira empresa com 22 anos (insta: @Barbeariadonabarba) </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu estou estudando:</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
 
 ###
