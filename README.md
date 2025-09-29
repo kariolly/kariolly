@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left"> Sou Geminiana e isso explica muito minha curiosidade sem fim, sempre buscando aprender coisas novas! Tenho 28 anos e sou Barbeira há mais de cinco anos e há alguns meses estudo Programação, então todas as vezes que eu acho que aprender algo novo é dificil, eu lembro que, pra mim, cortar cabelo tambem era 😆 </p>
+<p align="left"> Sou Geminiana e isso explica muito minha curiosidade sem fim, sempre buscando aprender coisas novas! Tenho 29 anos e sou Barbeira há mais de cinco anos e há alguns meses estudo Programação, então todas as vezes que eu acho que aprender algo novo é dificil, eu lembro que, pra mim, cortar cabelo tambem era 😆 </p>
 
 ###
 
-<p align="left">✨ Criando bugs desde Fev/2024 ...<br>📚 Atualmente estou no 2°Periodo de Analise e Desenvolvimento de Sistemas e focada em aprender Front-End <br>🎯 Metas: Depois de 5 anos empreendendo, hoje busco migrar de carreira e entrar na Área
+<p align="left">✨ Criando bugs desde Fev/2024 ...<br>📚 Atualmente estou no 4°Periodo de Analise e Desenvolvimento de Sistemas <br>🎯 Metas: Depois de 5 anos empreendendo, hoje busco migrar de carreira e entrar na Área
 de Tecnologia, no qual tenho me identificadado todos os dias.
 Meu maior objetivo profissional é entrar em uma empresa em que eu possa aliar
 minhas habilidades e conhecimentos junto a ela, visando crescimento pessoal e
